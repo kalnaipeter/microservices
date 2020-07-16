@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/service-registry/pom.xml" />
         <option value="$PROJECT_DIR$/rpggame/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/recomm-service/pom.xml" />
+        <option value="$PROJECT_DIR$/video-service/pom.xml" />
       </list>
     </option>
   </component>
